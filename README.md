@@ -1,6 +1,6 @@
 svelte-canvas-based-code-editor
 ===============================
-### Yoga
+### Yoga ([Playground | Yoga](https://www.yogalayout.dev/playground))
 ```jsx
 <Layout config={{useWebDefaults: false}}>
   <Node style={{width: 250, height: 475, padding: 10}}>
