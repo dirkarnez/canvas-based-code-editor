@@ -26,3 +26,15 @@ svelte-canvas-based-code-editor
   </Node>
 </Layout>
 ```
+```javascript
+import { Text } from 'pixi.js';
+  container.addChild(new Text({
+    text: '<b></b> and <i>I\ntalic</i>',
+    style: {
+        fontSize: 24,
+        fill: '#ffffff',
+        fontFamily: 'consolas'
+    }
+}));
+
+```
