@@ -1,5 +1,5 @@
-svelte-canvas-based-code-editor
-===============================
+canvas-based-code-editor
+========================
 ### Yoga ([Playground | Yoga](https://www.yogalayout.dev/playground))
 ```jsx
 <Layout config={{useWebDefaults: false}}>
